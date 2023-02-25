@@ -1,0 +1,16 @@
+Map provences = {
+  0: "al-haska.png",
+  1: "al-lazikia.png",
+  2: "al-qonitera.png",
+  3: "alraka.png",
+  4: "al-suidaa.png",
+  5: "damascus.png",
+  6: "daraa.png",
+  7: "der-alzor.png",
+  8: "halab.png",
+  9: "hama.png",
+  10: "homs.png",
+  11: "Idlib.png",
+  12: "syria.png",
+  13: "tartus.png",
+};
